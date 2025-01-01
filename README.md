@@ -1,2 +1,2 @@
 # WELCOME
-This is our website.
+This is our feature.
